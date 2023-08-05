@@ -1,0 +1,36 @@
+.navbar{
+    justify-content: end;
+}
+.image{
+    height: auto;
+    width: 75%;
+    margin-left:0px;
+
+}
+.Imp{
+    background-color:purple;
+   /* height: 60px;
+    margin: 170px;
+    margin-top: 5px;
+    margin-left: 190px;
+    margin-right: 1000px;
+    align-self: center;
+    padding: 30px;*/ 
+}
+li{
+    list-style: none;
+}
+.row{
+    text-decoration-color: wheat;
+    align-items: center;
+}
+.container-fluid{
+    display: flex;
+    text-align: center;
+    margin: m 1px; 
+    justify-content: space-evenly;
+}
+
+h2{
+    margin-left: 200px;
+}
